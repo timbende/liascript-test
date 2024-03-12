@@ -1,2 +1,2 @@
-# liascript-test
-Test Repo fuer LiaScript
+# LiaScript Test Repository
+Test Repository fuer LiaScript
